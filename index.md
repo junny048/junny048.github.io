@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WelCome
+title: Thank You!
 sitemap: false
 ---
 
